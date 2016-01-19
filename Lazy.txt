@@ -1,0 +1,8 @@
+
+Examples installations for fresh SD card:
+https://github.com/rlowe/raspberry
+
+
+http://www.instructables.com/id/An-inexpensive-IoT-enabler-using-ESP8266/
+
+http://www.instructables.com/id/Low-cost-WIFI-temperature-data-logger-based-on-ESP/
