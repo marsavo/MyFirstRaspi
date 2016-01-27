@@ -4,5 +4,20 @@ https://github.com/rlowe/raspberry
 
 
 http://www.instructables.com/id/An-inexpensive-IoT-enabler-using-ESP8266/
-
 http://www.instructables.com/id/Low-cost-WIFI-temperature-data-logger-based-on-ESP/
+
+# ESP8266 Firmware
+
+http://nodemcu-build.com/
+
+# Flash ESP8266
+https://learn.adafruit.com/building-and-running-micropython-on-the-esp8266/flash-firmware
+https://github.com/themadinventor/esptool/
+https://learn.adafruit.com/building-and-running-micropython-on-the-esp8266/flash-firmware
+https://github.com/4refr0nt/ESPlorer
+
+
+# How to set-up ESP8266 with DS18B20 sensor
+http://vaasa.hacklab.fi/2015/01/12/esp8266-ds18b20-thingspeak-nodemcu/
+
+https://www.youtube.com/watch?v=z07zjfOHb8E
