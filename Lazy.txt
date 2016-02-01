@@ -7,7 +7,6 @@ http://www.instructables.com/id/An-inexpensive-IoT-enabler-using-ESP8266/
 http://www.instructables.com/id/Low-cost-WIFI-temperature-data-logger-based-on-ESP/
 
 # ESP8266 Firmware
-
 http://nodemcu-build.com/
 
 # Flash ESP8266
@@ -21,3 +20,7 @@ https://github.com/4refr0nt/ESPlorer
 http://vaasa.hacklab.fi/2015/01/12/esp8266-ds18b20-thingspeak-nodemcu/
 
 https://www.youtube.com/watch?v=z07zjfOHb8E
+
+
+# Python: push button with event trigger and callback-function
+http://raspi.tv/2013/how-to-use-interrupts-with-python-on-the-raspberry-pi-and-rpi-gpio-part-2
