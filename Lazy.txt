@@ -18,6 +18,7 @@ https://github.com/4refr0nt/ESPlorer
 
 # How to set-up ESP8266 with DS18B20 sensor
 http://vaasa.hacklab.fi/2015/01/12/esp8266-ds18b20-thingspeak-nodemcu/
+http://www.jerome-bernard.com/blog/2015/10/04/wifi-temperature-sensor-with-nodemcu-esp8266/
 
 https://www.youtube.com/watch?v=z07zjfOHb8E
 
