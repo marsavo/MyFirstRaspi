@@ -1,0 +1,33 @@
+## MQTT-server, Mosquitto 
+http://blog.thingstud.io/recipes/how-to-make-your-raspberry-pi-the-ultimate-iot-hub/
+
+sudo nano /etc/init.d/mosquitto
+#!/bin/bash
+#/etc/init.d/mosquitto
+
+case "$1" in 
+start) 
+echo "Starting mosquitto" /usr/local/sbin/mosquitto -c /etc/mosquitto/mosquitto.conf 
+;;
+stop) 
+echo "Stopping mosquitto" killall mosquitto 
+;;
+*) 
+echo "Usage: /etc/init.d/mosquitto start|stop" 
+exit 1 
+;;
+esac
+exit 0
+
+sudo chown root:root /etc/init.d/mosquitto
+sudo chmod +x /etc/init.d/mosquitto
+sudo update-rc.d mosquitto defaults
+sudo update-rc.d mosquitto enable
+
+
+## Clients for test connections:
+sudo apt-get install mosquitto-clients
+
+## Eclipse Paho MQTT Python client
+https://pypi.python.org/pypi/paho-mqtt
+
