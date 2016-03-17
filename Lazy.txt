@@ -1,5 +1,11 @@
 
-Examples installations for fresh SD card:
+# RPI & tempsensor web-server:
+https://www.raspberrypi.org/forums/viewtopic.php?f=37&t=113411
+
+# HOWTO: Move the filesystem to a USB stick/Drive
+https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=44177
+
+# Examples installations for fresh SD card:
 https://github.com/rlowe/raspberry
 
 
