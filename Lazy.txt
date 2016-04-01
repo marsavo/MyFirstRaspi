@@ -1,3 +1,8 @@
+# Add scripts to be run during booting:
+crontab -e
+specify the following cron job:
+@reboot nohup sudo /home/pi/ir_remote_server.py.py &
+
 
 # RPI & tempsensor web-server:
 https://www.raspberrypi.org/forums/viewtopic.php?f=37&t=113411
@@ -8,18 +13,15 @@ https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=44177
 # Examples installations for fresh SD card:
 https://github.com/rlowe/raspberry
 
+# Bottle: Python web-framework 
+http://bottlepy.org/docs/dev/tutorial.html
+http://www.raspberry-pi-geek.com/Archive/2015/10/Raspberry-Pi-IR-remote/%28offset%29/2
+
+# Python: push button with event trigger and callback-function
+http://raspi.tv/2013/how-to-use-interrupts-with-python-on-the-raspberry-pi-and-rpi-gpio-part-2
 
 http://www.instructables.com/id/An-inexpensive-IoT-enabler-using-ESP8266/
 http://www.instructables.com/id/Low-cost-WIFI-temperature-data-logger-based-on-ESP/
-
-# ESP8266 Firmware
-http://nodemcu-build.com/
-
-# Flash ESP8266
-https://learn.adafruit.com/building-and-running-micropython-on-the-esp8266/flash-firmware
-https://github.com/themadinventor/esptool/
-https://learn.adafruit.com/building-and-running-micropython-on-the-esp8266/flash-firmware
-https://github.com/4refr0nt/ESPlorer
 
 
 # How to set-up ESP8266 with DS18B20 sensor
@@ -29,5 +31,10 @@ http://www.jerome-bernard.com/blog/2015/10/04/wifi-temperature-sensor-with-nodem
 https://www.youtube.com/watch?v=z07zjfOHb8E
 
 
-# Python: push button with event trigger and callback-function
-http://raspi.tv/2013/how-to-use-interrupts-with-python-on-the-raspberry-pi-and-rpi-gpio-part-2
+
+# Flash ESP8266
+https://learn.adafruit.com/building-and-running-micropython-on-the-esp8266/flash-firmware
+https://github.com/themadinventor/esptool/
+https://learn.adafruit.com/building-and-running-micropython-on-the-esp8266/flash-firmware
+https://github.com/4refr0nt/ESPlorer
+
