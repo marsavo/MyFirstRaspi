@@ -24,7 +24,9 @@ http://www.instructables.com/id/An-inexpensive-IoT-enabler-using-ESP8266/
 http://www.instructables.com/id/Low-cost-WIFI-temperature-data-logger-based-on-ESP/
 
 
-# How to set-up ESP8266 with DS18B20 sensor
+# How to set-up ESP8266 with DS18B20 sensor (Arduino IDE)
+https://gist.github.com/teos0009/acad7d1e54b97f4b2a88
+
 http://vaasa.hacklab.fi/2015/01/12/esp8266-ds18b20-thingspeak-nodemcu/
 http://www.jerome-bernard.com/blog/2015/10/04/wifi-temperature-sensor-with-nodemcu-esp8266/
 
