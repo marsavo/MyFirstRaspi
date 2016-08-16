@@ -7,6 +7,10 @@ specify the following cron job:
 # RPI & tempsensor web-server:
 https://www.raspberrypi.org/forums/viewtopic.php?f=37&t=113411
 
+# RPI & Grafana + INfluxDB + NodeJS
+http://giatro.me/2015/09/30/install-influxdb-and-grafana-on-raspberry-pi.html
+http://gridengine.eu/index.php/other-stories/230-installing-grafana-on-raspberry-pi-2-2015-10-24
+
 # HOWTO: Move the filesystem to a USB stick/Drive
 https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=44177
 
