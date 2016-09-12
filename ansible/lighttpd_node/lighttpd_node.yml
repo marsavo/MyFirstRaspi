@@ -1,12 +1,12 @@
 ---
 - hosts: nodes
   sudo: True
-  user: remy
+  user: pi
       
   vars:
-    wwwroot: "/srv/http/"
-    user: "remy"
-#     sslwwwroot: "/srv/https/"
+    wwwroot: "/var/www/"
+    user: "pi"
+#     sslwwwroot: "/var/wwws/"
     wuser: "www-data"
     wgroup: "www-data"
     compress: '( "application/x-javascript", "text/css", "text/html", "text/plain" )'
