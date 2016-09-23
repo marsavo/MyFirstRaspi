@@ -3,6 +3,9 @@ crontab -e
 specify the following cron job:
 @reboot nohup sudo /home/pi/ir_remote_server.py.py &
 
+# Paho MQTT examples:
+https://stackoverflow.com/questions/30836886/thread-issue-while-subscribing-to-mqtt-in-python-using-paho-mqtt
+https://stackoverflow.com/questions/37006863/python-mqtt-script-on-raspberry-pi-to-send-and-receive-messages
 
 # RPI & tempsensor web-server:
 https://www.raspberrypi.org/forums/viewtopic.php?f=37&t=113411
