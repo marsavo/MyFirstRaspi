@@ -26,6 +26,9 @@ https://github.com/RaymiiOrg/ansible/tree/master/lighttpd-nodes
 # Real-Time Web Interface to MQTT using Socket.io and Node.js
 http://embeddedtek.blogspot.fi/2015/06/real-time-web-interface-to-mqtt-using.html
 
+# Bluetooth 4.0 comminucation between two Raspi devices
+https://raspberrypi.stackexchange.com/questions/53863/error-transferring-file-from-raspberry-pi-to-other-device-using-bluetooth
+
 # Bottle: Python web-framework 
 http://bottlepy.org/docs/dev/tutorial.html
 http://www.raspberry-pi-geek.com/Archive/2015/10/Raspberry-Pi-IR-remote/%28offset%29/2
