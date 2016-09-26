@@ -31,3 +31,5 @@ sudo apt-get install mosquitto-clients
 ## Eclipse Paho MQTT Python client
 https://pypi.python.org/pypi/paho-mqtt
 
+## Rpi-update for kernel update
+https://github.com/Hexxeh/rpi-update
