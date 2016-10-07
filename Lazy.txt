@@ -177,4 +177,16 @@ with sqlite3.connect(db_filename) as conn:
 cursor.close
 conn.close()
 
+Display in HTML format:
 http://sharedmemorydump.net/logging-data-temperature-with-raspberry-pi
+
+
+####
+Ad-blocker to Raspi:
+
+https://pi-hole.net/
+https://github.com/diginc/docker-pi-hole
+
+###
+
+
